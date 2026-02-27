@@ -21,11 +21,11 @@ Este proyecto contiene un script en Python 3 para escanear puertos de una determ
 ## Ejemplo de salida
 
 La IP objetivo a escanear es 127.0.0.1 del puerto 1 al 200...  
-********************************************************************************  
+`********************************************************************************`  
 Puerto 80: ABIERTO  
    Banner: HTTP/1.1 200 OK  
 Puerto 135: ABIERTO  
    Banner: No disponible  
-********************************************************************************  
+`********************************************************************************`  
 Escaneo de 127.0.0.1 del puerto 1 al 200 completado
 
