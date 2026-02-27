@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Port Scanner + Banner Grabber - JLPEC
 
 Este proyecto contiene un script en Python 3 para escanear puertos de una determinada dirección IP (Entorno Controlado), utilizando la librería Socket.
@@ -28,3 +29,7 @@ Puerto 135: ABIERTO
   - Banner: No disponible
 ********************************************************************************
 Escaneo de 127.0.0.1 del puerto 1 al 200 completado
+=======
+# port-scanner-banner-grabber
+Proyecto en Python para escanear puertos de una determinada dirección IP (Entorno Controlado), utilizando la librería Socket.
+>>>>>>> 6da81819f4f7b36420163d0232b942a639395bc6
